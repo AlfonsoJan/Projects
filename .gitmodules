@@ -1,0 +1,3 @@
+[submodule "BioInfoBasics"]
+	path = BioInfoBasics
+	url = https://github.com/AlfonsoJan/BioInfoBasics
